@@ -1,3 +1,6 @@
+# Projet étudiant informatique
+<h3>Réalisation par Basile LEGRELLE et Dimitri SOLAR</h3>
+
 # Sudoku Solver
 
 Ce projet est une application Java qui permet de jouer et de résoudre des grilles de Sudoku. L'application offre deux modes : le mode joueur pour jouer au Sudoku et le mode éditeur pour créer et résoudre des grilles.
